@@ -1,0 +1,39 @@
+
+body {
+  margin: 0;
+  background-color: #f4f7fb;
+  font-family: Arial, sans-serif;
+  color: #243247;
+}
+
+.navbar-brand {
+  letter-spacing: 0.3px;
+}
+
+.nav-link {
+  margin-left: 12px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.table {
+  background-color: white;
+  vertical-align: middle;
+}
+
+.table th,
+.table td {
+  padding: 14px;
+}
+
+.form-card {
+  max-width: 600px;
+  border: none;
+  border-radius: 12px;
+}
+
+.form-card .form-control {
+  padding: 10px;
+}
